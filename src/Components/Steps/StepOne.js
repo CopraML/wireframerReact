@@ -30,7 +30,7 @@ export default class StepOne extends Component {
                 <div className="container mt-5">
                     <div className="justify-content-sm-center row">
                         <div className="col text-center">
-                            <button className="btn btn-primary">Next Step <i className="fa fa-chevron-right ml-2" aria-hidden="true"></i>
+                            <button onClick={this.props.changeView} className="btn btn-primary">Next Step <i className="fa fa-chevron-right ml-2" aria-hidden="true"></i>
 </button>
                         </div>
                         

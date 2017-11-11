@@ -15,11 +15,12 @@
 }
 
 .App-title {
-  font-size: 1.5em;
+  font-weight: 300;
 }
 
 .App-intro {
-  font-size: large;
+  font-size: 0.8rem;
+  color: rgb(91, 92, 109) 
 }
 
 @keyframes App-logo-spin {

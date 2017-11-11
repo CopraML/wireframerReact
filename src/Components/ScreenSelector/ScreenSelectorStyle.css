@@ -1,8 +1,15 @@
 .ScreenSelectorCard {
     cursor: pointer;
+    transition: 0.1s all ease-in;
 }
 
 .ScreenSelectorCard:hover {
     opacity: 0.8;
 }
 
+.ScreenSelectorCard.ScreenSelected {
+    
+}
+.ScreenSelected .card-img-overlay {
+    background: #0ec4552b;
+}

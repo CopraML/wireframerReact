@@ -1,0 +1,8 @@
+.ScreenSelectorCard {
+    cursor: pointer;
+}
+
+.ScreenSelectorCard:hover {
+    opacity: 0.8;
+}
+

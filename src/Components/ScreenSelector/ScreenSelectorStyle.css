@@ -1,6 +1,7 @@
 .ScreenSelectorCard {
     cursor: pointer;
     transition: 0.1s all ease-in;
+    margin-bottom: 2rem;
 }
 
 .ScreenSelectorCard:hover {
